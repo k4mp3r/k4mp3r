@@ -61,13 +61,11 @@
 
             <div class="rpgui-content">
                 <div class="inner rpgui-container framed" style="position:relative">
-                    <div>
-                        <h1 style="font-size:250%">BRIAN KAMPLING</h1>
-                        <hr class="golden">
-                        <a href="https://github.com/k4mp3r" target="_blank">
-                            <h2 style="font-size:175%">GitHub</h2>
-                        </a>
-                    </div>
+                    <h1 style="font-size:250%">BRIAN KAMPLING</h1>
+                    <hr class="golden">
+                    <a href="https://github.com/k4mp3r" target="_blank">
+                        <h2 style="font-size:175%">GitHub</h2>
+                    </a>
                     <div class="rpgui-center">
                         <div class="rpgui-container framed" style="position:relative; display:inline-block">
                             <div>
