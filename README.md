@@ -1,4 +1,4 @@
-## [Contact Me](https://forms.gle/vfotMh5hJhd71Nku8)
+## [Contact Me](https://discord.gg/JBNXTKNEhP)
 
 <!--
 **k4mp3r/k4mp3r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
